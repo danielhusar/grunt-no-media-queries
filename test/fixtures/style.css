@@ -1,9 +1,9 @@
 a{
-	color:blue
+  color:blue
 }
 
 @media all and (min-width: 500px) and (max-width: 700px){
-	a{
-		color:red;
-	}
+  a{
+    color:red;
+  }
 }
