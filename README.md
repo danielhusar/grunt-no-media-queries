@@ -1,4 +1,4 @@
-# [grunt](http://gruntjs.com/)-no-media-queries [![Build Status](https://secure.travis-ci.org/danielhusargrunt-no-media-queries.svg?branch=master)](http://travis-ci.org/danielhusar/grunt-no-media-queries)
+# [grunt](http://gruntjs.com/)-no-media-queries [![Build Status](https://secure.travis-ci.org/danielhusar/grunt-no-media-queries.svg?branch=master)](http://travis-ci.org/danielhusar/grunt-no-media-queries)
 
 > Export the css without mediaqueries matching maximum page width.
 
