@@ -9,8 +9,6 @@
 'use strict';
 
 module.exports = function (grunt) {
-  // load all npm grunt tasks
-  require('load-grunt-tasks')(grunt);
 
   // Project configuration.
   grunt.initConfig({
@@ -22,7 +20,7 @@ module.exports = function (grunt) {
 
     //our task
     no_media_queries: {
-      custom_options: {
+      custom: {
         options: {
           opts: {
             width: '600px'
